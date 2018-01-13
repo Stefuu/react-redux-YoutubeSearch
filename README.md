@@ -7,4 +7,4 @@ Just run
 > npm start
 ```
 
-And open localhost in browser
+And open localhost:8080 in browser
