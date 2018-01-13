@@ -1,0 +1,11 @@
+form {
+	margin: 15px;
+}
+
+.hide {
+	display: none;
+}
+
+.video-item {
+	cursor: pointer;
+}
